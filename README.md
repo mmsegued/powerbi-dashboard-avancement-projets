@@ -23,3 +23,8 @@ Construire un tableau de bord permettant de suivre l’avancement d’un portefe
 
 ## Compétences démontrées
 Power BI (modélisation, dataviz), Power Query (préparation), storytelling, restitution.
+## Aperçu
+![Vue mondiale](dashboard%20vue%20mondiale.JPG)
+![Vue continentale](dashboard%20vue%20continentale.JPG)
+![Vue nationale](dashboard%20vue%20nationale.JPG)
+
